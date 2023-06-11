@@ -10,9 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "music-tempo": "^1.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "realtime-bpm-analyzer": "^3.2.0"
+    "react-loading-icons": "^1.1.0",
+    "realtime-bpm-analyzer": "^3.2.0",
+    "web-audio-beat-detector": "^8.1.48"
   },
   "devDependencies": {
     "@types/react": "^18.0.37",
